@@ -1,3 +1,11 @@
+
+
+  <div class="typewriter">
+    <h1>👋 Hi, I'm <strong>Senapathi Chandini</strong></h1>
+  </div>
+
+  <h3 align="center">Data Analyst | Data Science | Power BI | SQL | Machine Learning</h3>
+</p>
 <p align="center">
   <style>
     .typewriter h1 {
@@ -21,13 +29,6 @@
       50% { border-color: orange; }
     }
   </style>
-
-  <div class="typewriter">
-    <h1>👋 Hi, I'm <strong>Senapathi Chandini</strong></h1>
-  </div>
-
-  <h3 align="center">Data Analyst | Data Science | Power BI | SQL | Machine Learning</h3>
-</p>
 
 <p align="center">
   📍 Srikakulam, India • ✉️ senapathichandini1820@gmail.com • 
