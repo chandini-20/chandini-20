@@ -1,5 +1,31 @@
 <p align="center">
-  <h1 align="center">👋 Hi, I'm <strong>Senapathi Chandini</strong></h1>
+  <style>
+    .typewriter h1 {
+      overflow: hidden;
+      border-right: .15em solid orange;
+      white-space: nowrap;
+      margin: 0 auto;
+      letter-spacing: .1em;
+      animation: 
+        typing 3.5s steps(30, end), 
+        blink-caret .75s step-end infinite;
+    }
+
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 100% }
+    }
+
+    @keyframes blink-caret {
+      from, to { border-color: transparent }
+      50% { border-color: orange; }
+    }
+  </style>
+
+  <div class="typewriter">
+    <h1>👋 Hi, I'm <strong>Senapathi Chandini</strong></h1>
+  </div>
+
   <h3 align="center">Data Analyst | Data Science | Power BI | SQL | Machine Learning</h3>
 </p>
 
