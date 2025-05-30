@@ -79,8 +79,8 @@ Currently working at **E-Tutor Connect** as a Statistical Analyst, and actively 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=senapathichandini&show_icons=true&theme=default&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=senapathichandini&layout=compact&theme=default&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=chandini-20&show_icons=true&theme=default&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandini-20&layout=compact&theme=default&hide_border=true"/>
 </p>
 
 ---
