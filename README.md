@@ -1,7 +1,12 @@
-# 👋 Hi, I'm Senapathi Chandini
+<p align="center">
+  <h1 align="center">👋 Hi, I'm <strong>Senapathi Chandini</strong></h1>
+  <h3 align="center">Data Analyst | Data Science | Power BI | SQL | Machine Learning</h3>
+</p>
 
-🎓 **B.Tech in Computer Science Engineering**  
-📍 Srikakulam, India | ✉️ senapathichandini1820@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/senapathi-chandini)
+<p align="center">
+  📍 Srikakulam, India • ✉️ senapathichandini1820@gmail.com • 
+  <a href="https://www.linkedin.com/in/senapathi-chandini" target="_blank">LinkedIn</a>
+</p>
 
 ---
 
