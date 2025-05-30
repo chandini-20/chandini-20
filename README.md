@@ -1,38 +1,13 @@
-
-
-  <div class="typewriter">
-    <h1>👋 Hi, I'm <strong>Senapathi Chandini</strong></h1>
-  </div>
-
-  <h3 align="center">Data Analyst | Data Science | Power BI | SQL | Machine Learning</h3>
+<p align="center">
+  <img src="assets/name-animation.gif" alt="Senapathi Chandini Typing Animation" width="500"/>
 </p>
-<p align="center">
-  <style>
-    .typewriter h1 {
-      overflow: hidden;
-      border-right: .15em solid orange;
-      white-space: nowrap;
-      margin: 0 auto;
-      letter-spacing: .1em;
-      animation: 
-        typing 3.5s steps(30, end), 
-        blink-caret .75s step-end infinite;
-    }
 
-    @keyframes typing {
-      from { width: 0 }
-      to { width: 100% }
-    }
-
-    @keyframes blink-caret {
-      from, to { border-color: transparent }
-      50% { border-color: orange; }
-    }
-  </style>
+<h3 align="center">Data Analyst | Data Science | Power BI | SQL | Machine Learning</h3>
 
 <p align="center">
-  📍 Srikakulam, India • ✉️ senapathichandini1820@gmail.com • 
-  <a href="https://www.linkedin.com/in/senapathi-chandini" target="_blank">LinkedIn</a>
+  📍 Srikakulam, India &nbsp;&nbsp;|&nbsp;&nbsp; 
+  ✉️ <a href="mailto:senapathichandini1820@gmail.com">senapathichandini1820@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🔗 <a href="https://www.linkedin.com/in/senapathi-chandini">LinkedIn</a>
 </p>
 
 ---
@@ -93,5 +68,6 @@
 
 > “Turning data into decisions with the power of analysis, visualization, and machine learning.”
 
-Thanks for stopping by!  
-🌱 *Currently exploring Generative AI and Prompt Engineering.*
+<p align="center">
+  🌱 <i>Currently exploring Generative AI and Prompt Engineering.</i>
+</p>
